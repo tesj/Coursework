@@ -1,0 +1,5 @@
+﻿  Thomas-Speich-CPT-168-A02H-Lab-5.cpp
+D:\Projects\CPT-168\Thomas-Speich-CPT-168-A02H-Lab-5\Thomas-Speich-CPT-168-A02H-Lab-5.cpp(18,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Projects\CPT-168\Thomas-Speich-CPT-168-A02H-Lab-5\Thomas-Speich-CPT-168-A02H-Lab-5.cpp(30,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\CPT-168\Thomas-Speich-CPT-168-A02H-Lab-5\Thomas-Speich-CPT-168-A02H-Lab-5.cpp(34,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Thomas-Speich-CPT-168-A02H-Lab-5.vcxproj -> D:\Projects\CPT-168\Thomas-Speich-CPT-168-A02H-Lab-5\x64\Debug\Thomas-Speich-CPT-168-A02H-Lab-5.exe

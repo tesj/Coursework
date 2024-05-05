@@ -1,0 +1,4 @@
+﻿  Thomas-Speich-CPT-168-A02H-Lab-6.cpp
+D:\Projects\CPT-168\Thomas-Speich-CPT-168-A02H-Lab-6\Thomas-Speich-CPT-168-A02H-Lab-6.cpp(33,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\CPT-168\Thomas-Speich-CPT-168-A02H-Lab-6\Thomas-Speich-CPT-168-A02H-Lab-6.cpp(37,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Thomas-Speich-CPT-168-A02H-Lab-6.vcxproj -> D:\Projects\CPT-168\Thomas-Speich-CPT-168-A02H-Lab-6\x64\Debug\Thomas-Speich-CPT-168-A02H-Lab-6.exe

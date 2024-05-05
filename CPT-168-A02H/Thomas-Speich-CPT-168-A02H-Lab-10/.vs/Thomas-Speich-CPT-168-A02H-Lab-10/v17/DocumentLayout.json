@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CPT-168\\Thomas-Speich-CPT-168-A02H-Lab-10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1803-09B1-4D31-A756-B8C6440693DF}|Thomas-Speich-CPT-168-A02H-Lab-10.vcxproj|D:\\Projects\\CPT-168\\Thomas-Speich-CPT-168-A02H-Lab-10\\Thomas-Speich-CPT-168-A02H-Lab-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C40A1803-09B1-4D31-A756-B8C6440693DF}|Thomas-Speich-CPT-168-A02H-Lab-10.vcxproj|solutionrelative:Thomas-Speich-CPT-168-A02H-Lab-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Thomas-Speich-CPT-168-A02H-Lab-10.cpp",
+              "DocumentMoniker": "D:\\Projects\\CPT-168\\Thomas-Speich-CPT-168-A02H-Lab-10\\Thomas-Speich-CPT-168-A02H-Lab-10.cpp",
+              "RelativeDocumentMoniker": "Thomas-Speich-CPT-168-A02H-Lab-10.cpp",
+              "ToolTip": "D:\\Projects\\CPT-168\\Thomas-Speich-CPT-168-A02H-Lab-10\\Thomas-Speich-CPT-168-A02H-Lab-10.cpp",
+              "RelativeToolTip": "Thomas-Speich-CPT-168-A02H-Lab-10.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAFYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T17:51:10.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

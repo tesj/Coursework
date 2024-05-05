@@ -1,0 +1,11 @@
+Last Name	First Initial	State	Zip Code	Acres	Tax		Odd/Even
+_________	_____________	_____	__________	_____	______		________
+
+Speich		T.		SC	29369-1740	1.20	$120.00		Even Year
+Bets		B.		FL	81023-8623	3.60	$720.00		Even Year
+Kidman		N.		CA	92653-8623	2.10	$1050.00	Odd Year
+Pitt		K.		FL	85640-8623	3.50	$700.00		Odd Year
+Foster		T.		SC	29532-8623	4.50	$450.00		Even Year
+Newton		J.		CA	92532-1855	2.90	$1450.00	Odd Year
+
+Number of records: 6
